@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        colors = new int[]{Color.DKGRAY,Color.CYAN, Color.GRAY, Color.RED, Color.BLUE, Color.BLACK, Color.LTGRAY,Color.MAGENTA,Color.YELLOW};
+        colors = new int[]{Color.DKGRAY,Color.CYAN, Color.GRAY, Color.RED, Color.BLUE, Color.BLACK, Color.LTGRAY,Color.MAGENTA,Color.DKGRAY};
 
         windowView = findViewById(R.id.windowViewId);
 
