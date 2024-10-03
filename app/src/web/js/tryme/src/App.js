@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//removed logo
 import './App.css';
 import React, { useState } from 'react';
 
